@@ -1,7 +1,7 @@
 hotels = [
     {
         'id': 1,
-        'name': "Hanoi Daewoo Hotel",
+        'name': "Europa Hotel",
         'rating': 4.2,
         'stars': 4,
         'price': 125,
@@ -102,7 +102,7 @@ hotels = [
     },
     {
         'id': 2,
-        'name': "Hanoi Fortuna Hotel",
+        'name': "The Merchant Hotel",
         'rating': 3.7,
         'stars': 4,
         'price': 131,
@@ -372,7 +372,7 @@ hotels = [
     },
     {
         'id': 8,
-        'name': "Pullman Hanoi Hotel",
+        'name': "Travel Lodge",
         'rating': 4.1,
         'stars': 4,
         'price': 93,
